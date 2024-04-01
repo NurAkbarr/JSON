@@ -25,7 +25,7 @@ Proses parsing JSON memungkinkan aplikasi untuk mengakses dan menggunakan data y
 
 ## Hasil Project
 
-![img1](assets/img1)
+![img1](https://github.com/NurAkbarr/JSON/blob/3b3841f3fe2518a7713488ea6870fb732a7b6244/assets/img1.png)
 
 ## Tutorial Project Parsing Json menggunakan Android Studio
 
